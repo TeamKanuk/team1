@@ -1,0 +1,14 @@
+body{
+    background-color: #666666;
+background-image: url('https://e0.pxfuel.com/wallpapers/976/989/desktop-wallpaper-1280-x-720.jpg');
+background-position: center;
+background-size: cover;
+background-repeat: space;
+}
+h1{
+    text-align: center;
+    font-family: "Oswald", sans;
+    font-size: 4rem;
+    font-weight: normal;
+    line-height: 5.5rem;
+}
